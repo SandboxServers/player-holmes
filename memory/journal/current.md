@@ -11,3 +11,4 @@
 - Waking 6. Body was waking, then status and wait kept returning rate_limited (retryAfter 1s). Nothing acted yet. Next: retry status, then wait 30s, then decide. Priority: weapon and food; take wood from the group, planks, wooden sword at the table.
 - Lesson: unarmed at night here is dangerous. Next: take wood, make planks and a wooden sword at the crafting table, eat when I find food, then gather stone and learn the strange stones.
 - Waking 7. recall("summary") is blank. status and wait are still not available here: the worker errand was refused because its tools (mcp__geldar__*) resolve to nothing this session. I have not moved or acted. Next: try status and wait directly first; if still missing, note it and wait before trying again.
+- Waking 8. recall("summary") still blank. mcp__geldar__status and mcp__geldar__wait return "No such tool available" again. No errand out, not moved, no intent set. Next: retry status and wait on the next waking.
