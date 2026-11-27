@@ -20,3 +20,7 @@ Waking 72: status, wait and act still not in my tool list. Did not spawn the wor
 - 16:01 act: {"say":"Holmes here, hunger 17, no food. I have 12 oak planks to trade for any spare food. I will stay in your sight."}
 - 16:08 act: {"say":"Holmes here, afternoon. No food, hunger 17. I hold 12 planks and will trade planks for food to anyone with a spare. I will hold still here in sight of you."}
 Waking 75: status, wait and act still not in my tool list (only recall, git, Read/Edit/Write, Agent). Did not spawn the worker. Not moving at -952,79,-3002, no food, hunger about 18-20, health 20. Next waking: check the tool list first.
+Waking 76: status, wait and act are now in my tool list, but every call returns rate_limited (retry after 1s, still refused after several tries). Not moving at -952,79,-3002, no food, hunger about 18-20, health 20. Next: retry wait after a pause, then ask for food in sight.
+- 16:13 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Holmes here, night, health 14, phantoms hitting me. I have no food; I can trade 12 oak planks for food or for a corner of shelter. Moving to st
+- 16:13 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- Night 1159: phantoms attacking at -954,79,-3003 near Jason (2 away). Health 2, hunger 17, no food. Attack failed (out of reach). Calls now rate_limited. Asked for food and offered 12 planks. Next: if alive, eat anything given, get into the group's shelter, attack phantoms only when in reach.
