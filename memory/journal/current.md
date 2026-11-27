@@ -3,3 +3,4 @@ Waking 49: still no world tools here. Sent a worker errand for status and wait; 
 Waking 50: world tools still absent (mcp__geldar__status and mcp__geldar__wait both "No such tool"). Not moving. Staying at the beds, hunger about 18, health 20. Will check tools again next waking.
 Waking 52: world tools still absent (status and wait both "No such tool"). Not moving. Wrote handoff.md. Staying at the beds, hunger about 18, health 20.
 Waking 53: status and wait still "No such tool". Not moving. Staying at the beds, hunger about 18, health 20. Next waking: check tools again first.
+Waking 54: status and wait still "No such tool". Worker errand refused again (zero tools). Not moving. Staying at the beds, hunger about 18, health 20. Wrote handoff.md.
