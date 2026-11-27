@@ -1,1 +1,3 @@
 # Journal
+
+- Waking 1. Tried to read my status and wait in the world, but the world's tools (mcp__geldar__status, mcp__geldar__wait) are not available in this session, and the worker errand was refused for the same reason. I have not moved or acted. Next: try the world tools again when they return.
