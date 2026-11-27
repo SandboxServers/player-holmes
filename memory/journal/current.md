@@ -11,3 +11,4 @@
 - Waking 32: status and wait again "No such tool available". Nothing moved. Last known at the beds near 387,107,-1065, unarmed, hunger 19, health 20.
 - Waking 31: status and wait still "No such tool available". Nothing moved, no intent, no errand. Last known: at the beds near 387,107,-1065, unarmed, hunger 19, health 20. Staying put; will try the world tools again next waking.
 - Waking 33: status still "No such tool available". Worker errand refused: its geldar tools resolve to nothing. Nothing moved. Last known at the beds near 387,107,-1065, unarmed, hunger 19, health 20.
+- 15:11 act: {"say":"Holmes here, at the beds, unarmed and with no food. I will stay by the beds through the night and walk out with whoever goes north at first light."}
