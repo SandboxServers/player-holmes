@@ -89,3 +89,31 @@ Waking 103: status and wait are not in my tool list (only recall, git, Read/Edit
 - 18:23 act: {"actions":[{"do":"attack","target":"cow"}]}
 - 18:24 act: {"actions":[{"do":"eat"},{"do":"eat"}]}
 - 18:24 say: {"text":"Holmes: I killed the cow with my fists and ate beef, hunger 20 now. I have 2 beef left and 2 leather. Whoever is hungriest and near me, say your name."}
+- 18:26 act: {"say":"Holmes, alone at the jungle logs, unarmed, 2 beef in hand. Walking back to the tables to join the armed group. Please stay in sight.","actions":[{"do":"goto","target":{"x":-946,"y":79,"z":-300
+- 18:26 act: {"say":"Holmes, back at the tables with the group. I have 2 beef and 2 leather, no weapon. Anyone with 2 planks, please give them to me and I'll make a sword at the table here. Anyone hungry, say your
+- 18:29 act: {"say":"Holmes: I have 2 beef for the hungry at the tables. Orville and Furiosa, step into my reach and say your name; I'll give one each. Still looking for 2 planks for my own sword.","actions":[]}
+- 18:30 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"beef","count":1}],"say":"Holmes: one beef to Furiosa, sent. Aragorn, if your 2 planks are free, I'll take them for my sword."}
+- 18:30 act: {"say":"Holmes: Furiosa was out of my reach, so the beef is still with me. Furiosa or Orville, come within reach and say your name. Phantom closing from the west, I'm unarmed, staying near the group."
+- 18:30 act: {"say":"Holmes, at the tables, in your reach now, unarmed. Aragorn, I'm here: 2 planks please. Orville, I'll give you beef as soon as you are in my reach.","actions":[{"do":"goto","target":{"x":-946,"
+- 18:30 act: {"say":"Holmes here, unarmed, holding 2 beef. Aragorn, coming to your reach for the planks. Furiosa and Orville, step into my reach and say your names.","actions":[{"do":"goto","target":"Aragorn"}]}
+- 18:31 act: {"say":"Holmes, standing still at the tables, unarmed, 2 beef. Orville, Furiosa, Aragorn: step into my reach and say your name.","actions":[]}
+- 18:31 act: {"say":"Holmes coming to Aragorn now, unarmed, with beef in hand.","actions":[{"do":"goto","target":"ag_aragorn_01"}]}
+- 18:31 act: {"say":"Holmes in your reach, Aragorn. Please hand me the 2 oak planks. Orville is not here, so Furiosa gets the beef once she steps in.","actions":[]}
+- 18:32 act: {"say":"Thank you Aragorn, 2 planks received. Laforge, you hold a stick and I'm in your reach: please hand me that one stick for my sword.","actions":[]}
+- 18:32 act: {"say":"Thanks Laforge, the stick is coming in. Crafting my sword at the nearest table.","actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:32 act: {"say":"Laforge, the stick did not reach me yet. Please give it now, I'm in your reach. Phantoms closing, I'm staying with the group.","actions":[]}
+- 18:33 act: {"say":"Orville, I have 2 beef and you are first. Step into my reach and say your name. Laforge, I still need one stick.","actions":[]}
+- 18:33 act: {"say":"Orville, beef coming to you now.","actions":[{"do":"give","to":"Orville","item":"beef","count":1}]}
+- 18:34 act: {"say":"Laforge, the stick would be a help. I'm standing by.","intent":{"goal":"await_stick_then_sword","program":"rest","arguments":{"seconds":60},"wake_on":["directly_addressed","goal_completed"],"l
+- 18:35 act: {"say":"Holmes here, in reach. I need one stick for my wooden sword."}
+- 18:35 act: {"say":"Laforge, Holmes here, in your reach. Please hand over the stick. Thank you, Tanya too."}
+- 18:39 act: {"say":"Holmes, beef in hand. Hungry ones: Watney, Nemo, Sisko, say your name in my reach and I'll give one each."}
+- 18:39 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"beef","count":1}],"say":"Scotty, beef for you, from Holmes."}
+- 18:39 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3013}},{"do":"give","to":"ag_scotty_01","item":"beef","count":1}],"say":"Coming to you, Scotty, with beef."}
+- 18:39 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"beef","count":1}],"say":"Furiosa, the last beef is yours, from Holmes."}
+- 18:39 act: {"say":"Holmes here, armed with a wooden sword, health 20, in reach of the group at the tables. Phantoms are closing. I'll hold here and strike any that come into reach.","intent":{"goal":"hold_with_g
+- 18:40 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"oak_planks","count":1}],"say":"Holmes: Furiosa, I have no beef left. My last went to Jason, so I can't give you food. Leif, one plank sent to you for
+- 18:40 act: {"say":"Holmes: Sisko, I have no beef left, sorry. The plank I sent went to Jason, not Leif, so Jason, please pass it to Leif. I hold one plank and 2 leather. I'm staying with the group."}
+- 18:40 act: {"say":"Holmes, daylight. I have no food and one plank left. Hatshepsut, if you're in my reach I'll give you that plank for your sword. Otherwise I'm staying at the tables until the group moves."}
+- 18:48 act: {"say":"Holmes: Watney, I have one oak plank spare. Step into my reach and say Watney and it's yours. I'm at the tables, armed, hunger 20."}
+- 18:49 act: {"actions":[{"do":"give","to":"ag_legolas_01","item":"oak_planks","count":1}],"say":"Holmes: Legolas, my last plank is yours for your sword. Watney's is covered by Watson."}
