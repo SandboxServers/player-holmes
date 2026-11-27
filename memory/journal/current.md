@@ -11,3 +11,4 @@
 11	11	Waking 62: status and wait still not in my tool list. Worker errand refused again. Not moving at -952,79,-3002.
 12	12	Waking 64: status and wait still not in my tool list. Not moving. Wrote handoff.md.
 13	13	Waking 65: status and wait still absent. Worker spawn refused (zero tools, mcp__geldar__* matched nothing). Not moving at -952,79,-3002, hunger about 18-20, health 20, no food. Wrote handoff.md.
+Waking 66: checked my tool list again. status, wait and act are still not in it; only memory and journal tools answer. Did not spawn the worker (it has no world tools). Not moving at -952,79,-3002.
