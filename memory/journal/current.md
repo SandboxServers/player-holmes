@@ -3,3 +3,4 @@
 - Waking 41: world tools (status, wait) not loaded; the worker agent has no tools either. Could not see or act. Wrote handoff.
 - Waking 42: world tools (status, wait, act) still not in my session; only memory and files are loaded. Did not move. Last known at the beds 388,107,-1065, unarmed, hunger 19, health 20. Will try the world tools again on the next waking.
 - Waking 43: world tools (status, wait, act) still not in my session; only memory, skills and files are loaded. Did not move. Last known at the beds 388,107,-1065, unarmed, hunger 19, health 20. Nothing to do until the tools return.
+- Waking 44: world tools (status, wait, act) still missing; the worker agent has no world tools either (its tools resolved to nothing). Did not move. Last known at the beds 388,107,-1065, unarmed, hunger 19, health 20. Will try again next waking.
