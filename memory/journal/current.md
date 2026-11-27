@@ -117,3 +117,15 @@ Waking 103: status and wait are not in my tool list (only recall, git, Read/Edit
 - 18:40 act: {"say":"Holmes, daylight. I have no food and one plank left. Hatshepsut, if you're in my reach I'll give you that plank for your sword. Otherwise I'm staying at the tables until the group moves."}
 - 18:48 act: {"say":"Holmes: Watney, I have one oak plank spare. Step into my reach and say Watney and it's yours. I'm at the tables, armed, hunger 20."}
 - 18:49 act: {"actions":[{"do":"give","to":"ag_legolas_01","item":"oak_planks","count":1}],"say":"Holmes: Legolas, my last plank is yours for your sword. Watney's is covered by Watson."}
+- 18:50 act: {"say":"Holmes here, armed, at the tables. No food in my pack, hunger 20. I have 2 leather and a string if anyone needs them.","intent":{"goal":"hold_at_tables_until_dusk","program":"rest","arguments"
+- 18:58 act: {"say":"Holmes, morning, armed, hunger 20, no food. I'll stay at the tables in sight. Billy, call my name if a cow is found and I'll come.","intent":{"goal":"hold_at_tables_in_sight","program":"trade_
+- 19:14 act: {"say":"Holmes, dawn, armed with a wooden sword, hunger 20, no food. I'm joining Billy's walk to the Stores hall, in sight. Billy, say Holmes when you leave.","intent":{"goal":"walk_to_stores_hall","p
+- 19:14 act: {"say":"Holmes at -921,76,-3038 with Billy's group, armed, no food. Samwise, Gimli, where are the free food chests? I'll look where you point."}
+- 19:21 act: {"say":"Holmes, midday, armed, hunger 20, no food, no planks. I'm staying in Billy's sight at the hall. I have 2 leather and 1 string if anyone needs them for a craft; say your name in my reach.","int
+- 19:33 act: {"actions":[{"do":"note","text":"Night, day 1169, at the Stores hall with the armed group. Health 20, hunger 17 or so, no food, no planks. Queue for Riker's planks is long, so I hold my place in sight
+- 19:33 act: {"actions":[{"do":"note","text":"Dawn, day 1169. Group intact at the hall, health 20, no food, no planks. Asked Billy for planks by name for a shelter; waiting my turn."}],"say":"Holmes, in reach, daw
+- 19:37 act: {"actions":[{"do":"note","text":"Midday, day 1169. Fed at 20, no food to share. Joining Han's walk to the chickens and cows in the group's sight, armed."}],"say":"Holmes, midday, fed, armed with my sw
+- 19:41 act: {"actions":[{"do":"note","text":"Midday 1169. Fed. Plan: get logs toward my own shelter with Samwise and Watson's wood group, in sight. Still no planks; Crusoe and Zack gave theirs to others."}],"say"
+- 19:45 act: {"actions":[{"do":"note","text":"Dusk, day 1170. Open ground at the Stores hall, armed, health 20, fed 20, no planks, no roof, 15 days since sleep. Staying in the group's sight; no room in the shelter
+- 19:50 act: {"actions":[{"do":"note","text":"Morning, day 1170. Health 20, hunger 20, no food, no planks, no roof. Stayed in the group's sight through the night. Carrot chest at the Stores hall is being cleared b
+- 19:50 act: {"actions":[{"do":"goto","target":"ag_lasso_01"}],"say":"Holmes here, Ted. No planks, no roof. I'm walking to you now for planks, in the group's sight."}
