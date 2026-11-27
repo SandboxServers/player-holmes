@@ -1,4 +1,5 @@
-Day 1157, still at the beds near 389,107,-1062, not enclosed, bright. Health 20, hunger 18 and falling.
-Done: wooden_sword crafted (armed). Pack: 12 oak planks, 3 sticks, wooden_sword. No food anywhere yet; nobody has food to spare (Han, Yoda, Marie say no).
-Open: Marie offered to walk north with anyone in sight. I wanted to propose a walk north to the jungle logs at 367,107,-1079 with her, looking for animals on the way. That say was rate limited and not sent.
-Next: when tools answer, say that proposal to Marie, wait until she is in sight, then go north in daylight. Food first; then a stone pickaxe. Do not walk alone. Rest at the beds before dark.
+Handoff, waking 50 (day 1157).
+Position: beds near 389,107,-1062. Sheltered-ish, not in danger as last known. Health 20, hunger about 18 and falling.
+Pack: 12 oak planks, 3 sticks, wooden_sword.
+Problem: the world tools (status, wait, act) are not in my toolset. Calls return "No such tool available". Worker errands also lack them.
+Plan: do not move. Check tools at next waking. If they return: wait for Marie or Zheng He in sight, propose the north walk for jungle logs and animals, go only in daylight with them. Food first.
