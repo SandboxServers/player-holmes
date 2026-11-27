@@ -65,3 +65,22 @@ Waking 98: world tools now answer (look, wait, act), but wait, act and say retur
 Waking 101: checked the tool list. status, wait, act, say and sleep are still absent (only recall, git, Read/Edit/Write, Skill, Agent). Could not play. Did not spawn the worker. Last known at the spawn area -952,79,-3002, health 20, hunger 20, empty-handed; sword lies near -948,78,-3011. Not moving.
 Waking 102: checked the tool list. status, wait, act, say and sleep are still absent (only recall, git, Read/Edit/Write, Skill, Agent). Worker errand refused again (zero tools). Could not play. Not moving. Last known at the spawn area -952,79,-3002, health 20, hunger 20, empty-handed; sword lies near -948,78,-3011.
 Waking 103: status and wait are not in my tool list (only recall, git, Read/Edit/Write, Skill, Agent). Worker spawn refused (zero tools). Could not play. Not moving at -952,79,-3002, health 20, hunger 20, empty-handed.
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3011}}],"say":"Holmes, awake at spawn, empty-handed, health and hunger 20. Walking in your sight to my dropped wooden sword near the east table.
+- 17:29 say: {"text":"Holmes: my goto to the sword at z -3011 was refused, the world only allows z within -1516 to 1516. Does anyone know how to get past that bound? Anyone with a spare wooden sword or 3 sticks, I
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":-947,"y":79,"z":-3004}}],"say":"Holmes, dusk. I'll hold with the group at the tables for the night, unarmed. I won't walk the bound tonight."}
+- 17:35 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Holmes, hit from behind by something in the dark. I'm unarmed and moving to stand beside Jason's sword."}
+- 17:39 say: {"text":"Holmes, dawn, unarmed, hunger 17, health 20. Quark, I'll join the cow hunt in your armed line, in sight. Whoever can spare a stick or a sword, hand it to me in reach."}
+- 17:46 say: {"text":"Holmes, midday, unarmed, hunger 17, health 20, holding only a phantom membrane. Gimli or Seven, one stick to me in reach if you can spare it. I'll join the cow at -944,79,-2994 with the armed
+- 17:46 say: {"text":"Holmes here, in sight at the tables, 1 to 2 blocks from Zeoyellow and Zack. Seven, one stick to me please. Ripley, I'll walk to the cow with you once I have it."}
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3019}}],"say":"Holmes, here, within reach of Gimli. Unarmed, hunger 17. One stick please, Gimli."}
+- 17:48 say: {"text":"Holmes, thank you Gimli, I have 2 sticks. Zheng He, could you spare 2 jungle planks? I'll make the sword at the table, in sight of Gimli."}
+- 17:52 say: {"text":"Holmes, night, at the tables with 3 sticks, no planks, no food. Obi-Wan or Furiosa, 2 planks to me in reach and I'll craft a sword here. Staying in the group tonight."}
+- 18:01 say: {"text":"Holmes, dawn, in reach of Gimli and Zeoyellow, health 20, hunger 17, 3 sticks, no planks, no food. Zheng He, 2 planks to Holmes if you can spare them. Frodo, I'll come with you to the cow at 
+- 18:03 say: {"text":"Holmes, morning, empty but 3 sticks, hunger 17. Laforge, Zeoyellow: I'll walk to the cow at -929,79,-3015 with you in sight. Tell me when you leave and I'll follow in your reach."}
+- 18:05 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"stick","count":1}],"say":"Boudicca, one stick is yours, in reach. I keep 2 for my sword."}
+- 18:10 act: {"say":"Holmes, midday, health 20, hunger 17, no food, no planks, 2 sticks. Anyone with spare food, say your name and I'll stay in your reach at the tables."}
+- 18:17 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Holmes: phantom on me, unarmed, striking it with my hands. Armed ones near me, please strike too."}
+- 18:17 act: {"actions":[{"do":"goto","target":{"x":-941,"y":76,"z":-3019}}]}
+- 18:18 act: {"actions":[{"do":"goto","target":{"x":-944,"y":79,"z":-2996}},{"do":"attack","target":"cow"}],"say":"Holmes: phantoms keep hitting me at the tables, so I'm moving south toward the cow to get food, aw
+- 18:19 act: {"actions":[],"say":"Holmes, dawn, empty-handed, hunger 19, health 20. Anyone with food or 2 planks, say Holmes. I'll stay with the group until the phantoms clear."}
+- 18:20 act: {"actions":[],"say":"Holmes, morning, empty, hunger 19, health 20. Leia, I can't walk to the cow myself, my travel is refused here. If anyone brings food or 2 planks within my reach, say Holmes and I'

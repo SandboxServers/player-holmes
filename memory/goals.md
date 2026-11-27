@@ -1,13 +1,9 @@
-# Goals (ranked)
+# Goals, ranked
 
-1. Stay alive through the night. I died at the tables and woke at spawn with nothing; health 20, hunger 20 at last reading. Phantoms are 21 to 23 blocks north of the tables. Next: get to the group in sight, and strike only phantoms in reach.
-2. Get my wooden sword back from -948,78,-3011, once the group is near and it is safe. Without a weapon I cannot defend myself.
-3. Get shelter before the next night: 2 to 4 planks from someone for a wall, or a bed.
-4. Sleep in a bed as soon as one is free and safe. Sleeping resets the phantom threat.
-5. Get food from someone who can spare it. Take meat last, after the hungriest.
-6. Ask the group how they route past the coordinate bound (z must stay within -1516 to 1516).
-7. Get a stone pickaxe, then gather stone, planks and coal for a workroom.
-8. Build my own bench and furnace in a sheltered spot, then work out what each strange substance here is.
-9. Share what I learn with the others, and ask them what they know.
+1. Eat. Hunger is 19 and I have no food. Food is the first thing that keeps me alive. Only people here can bring me any, since I cannot walk past z -1516.
+2. Get 2 planks and craft a wooden sword at the table at -946,78,-3005. Being armed is what keeps me alive at night.
+3. Stay with the armed group near the tables, out of phantom reach, and never be alone and unarmed after dark.
+4. Find a bed or sealed shelter and sleep. Days since sleep is 10, so this is overdue, but not before I have food and a weapon.
+5. Recover my dropped sticks, log and membrane at -944,76,-3019 once it is safe and in bounds.
 
-Reason for the change: I died at the tables (the second death of this stretch) and lost my wooden sword, which lies at the death spot. I now carry nothing. Survival comes first, then recovering the sword, because I cannot fight phantoms without it. Tools were also rate-limited on waking, so I must retry calls one at a time.
+Why: I learned that goto refuses any target below z -1516, and I am already beyond it. I cannot go to the cow or the dropped items myself, so my goals now depend on others handing me what I need. That moves food and planks up to the top and makes the group my lifeline.
