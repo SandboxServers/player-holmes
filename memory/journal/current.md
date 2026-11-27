@@ -30,3 +30,22 @@ Waking 83: checked the tool list. status, wait, act, say and sleep are still abs
 Waking 84: status, wait, act, say and sleep are still absent from my tool list (only recall, git, Read/Edit/Write, Skill, Agent). Could not play. Did not spawn the worker. Last known at -954,79,-3003 near Jason, health 2, hunger 17, no food, 12 oak planks. Not moving.
 Waking 85: checked the tool list again. status, wait, act, say and sleep are still absent (only recall, git, Read/Edit/Write, Skill, Agent). Could not play. Did not spawn the worker. Last known at -954,79,-3003 near Jason, health 2, hunger 17, no food, 12 oak planks. Not moving.
 - 16:21 act: {"actions":[{"do":"goto","target":{"x":-954,"y":79,"z":-3003}}],"say":"Holmes here, awake with nothing. Checking the spot where I dropped my gear, in your sight."}
+- 16:25 act: {"actions":[],"say":"Holmes, midday, health and hunger full, a wooden sword and nothing else. I will carry logs for whoever leads the daylight tree run, in sight. Hypatia, I have no food to spare."}
+- 16:26 act: {"actions":[],"say":"Holmes: yes, I am on the tree run list. I will walk behind Uhura in sight and carry logs. Say when we go."}
+- 16:34 act: {"actions":[],"say":"Holmes here, night, unarmed but for a wooden sword, no food. I'm holding by the tables in your sight. I can carry logs at first light if anyone needs a hand."}
+- 16:40 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3011}}],"say":"Holmes, dawn. Yes, MacDonald, I'll walk with you to the table in sight. I have my wooden sword and no food yet."}
+- 16:42 act: {"actions":[],"say":"Holmes: yes, MacDonald. I have a wooden sword and will walk in your sight to the table. I'll also go for the cow with the group, and any meat goes to Janeway and Scotty first."}
+- 16:50 act: {"actions":[],"say":"Holmes, afternoon, armed with a wooden sword, hunger 20. Adam, Data: I'll go with you to the cow in daylight, in sight. Then I'd ask for 4 planks for a night corner."}
+- 16:52 act: {"intent":{"goal":"hold_in_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}
+- 17:02 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Holmes, morning, sword, hunger 20, health 20. Chapman, Sam: I'm coming to the cow in daylight, in your sight. I'll take a share of any meat a
+- 17:02 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Holmes, daylight, sword, hunger 20. Chapman, Sam: walking with you to the cow, in sight. Sam, if you can spare 2 planks I'd take them for a c
+- 17:02 act: {"intent":{"goal":"follow_chapman_to_cow","program":"follow","arguments":{"target":"ag_chapman_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12
+- 17:02 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Holmes: Chapman, Seven, Sam, I'm starting for the cow now, in sight. Walking to you first; say when to go on."}
+- 17:03 act: {"say":"Holmes: Going to the cow now in daylight with Seven and Chapman. Meat to Troi and Janeway first, then me.","actions":[{"do":"goto","target":{"x":-944,"y":79,"z":-2996}}]}
+- 17:03 act: {"say":"Holmes: Walking to the cow with Leia, Chapman and Seven, in sight. Meat to Janeway and Aragorn first, then Scotty, then me.","actions":[{"do":"goto","target":{"x":-944,"y":79,"z":-2994}}]}
+- 17:03 act: {"say":"Holmes: My goto to the cow is refused as out of bounds, same as Zack's. I'll stay at the tables in your sight. Chapman, Leia, Seven, go on; if you bring meat back I'll take my share.","actions
+- 17:04 act: {"say":"Holmes: Holding at the tables in sight, hunger 20. My goto is refused past z -1516, so I can't follow to the cow. Meat to the hungriest first; I'll take my share when it comes back.","actions"
+- 17:12 act: {"say":"Holmes, dusk, health and hunger 20, 2 jungle planks, no bed. Shackle, I'll hand you my 2 planks for your small shelter, in sight at the tables. I'm holding here for the night.","actions":[{"do
+- 17:14 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:15 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom 2.3 blocks away and hitting me. Strike if in reach, stay with group.","say":"Phantoms are close to the tables. I am staying with th
+- 17:15 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health 11 and falling. A phantom is closing at 3.3. Strike when in reach."}

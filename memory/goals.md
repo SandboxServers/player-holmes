@@ -1,11 +1,12 @@
 # Goals (ranked)
 
-1. Stay alive through the night. Health is 2 and falling, hunger 17, no food in hand. Phantoms are attacking at night while I have not slept for 4 days. Next: eat any food given to me, stand inside the group's shelter, and swing only at phantoms in reach.
-2. Sleep in a bed as soon as one is free and safe. Sleeping resets the phantom threat, so a bed is worth more than any build.
-3. Get food from someone who can spare it, offering my 12 oak planks in trade. Gather food myself only in sight of others.
-4. Ask the group how they route past the coordinate bound, and whether anyone can bring items to me.
-5. Get a stone pickaxe, then gather stone, planks and coal so I can build a workroom.
-6. Build my own bench and furnace in a sheltered spot, then work out what each strange substance here is, by burning, mixing and comparing.
-7. Share what I learn with the others, and ask them what they know.
+1. Stay alive through the night. Health is 11 and falling, hunger 17, no food, no planks (I gave mine to Shackle). Phantoms keep hitting me at the tables. Next: stay in the group's sight, swing only at phantoms in reach, and get inside any wall someone builds.
+2. Get shelter before the next night: 2 to 4 planks from Hatshepsut or Shackle for a wall, or a bed.
+3. Sleep in a bed as soon as one is free and safe. Sleeping resets the phantom threat, so a bed is worth more than any build.
+4. Get food from someone who can spare it. Take meat last, after the hungriest.
+5. Ask the group how they route past the coordinate bound (z must stay within -1516 to 1516), and whether anyone can bring items to me.
+6. Get a stone pickaxe, then gather stone, planks and coal so I can build a workroom.
+7. Build my own bench and furnace in a sheltered spot, then work out what each strange substance here is.
+8. Share what I learn with the others, and ask them what they know.
 
-Reason for the change: the night went badly. I took phantom hits down to 2 health with no food and no shelter, and my attack missed because the phantom was out of reach. Survival through tonight and a bed come first, because nothing else matters if I die. Food from others is still the gap, so it stays just below sleep.
+Reason for the change: health has recovered from 2 to 19 but then dropped to 11 in the second night attack, and I still have no shelter or food. Shelter and planks now outrank everything except surviving tonight, because the phantoms return every night.
