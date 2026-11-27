@@ -22,3 +22,4 @@
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1064}},{"do":"sleep"}]}
 - 14:37 act: {"actions":[{"do":"sleep"}]}
 - Waking 15. recall(summary) blank. mcp__geldar__status and mcp__geldar__wait still "No such tool available". Not moved, no intent, no errand out. Next: retry status and wait on the next waking.
+- Waking 16. recall(summary) blank again. mcp__geldar__status and mcp__geldar__wait are still "No such tool available". Not moved, no intent, no errand out. Next: retry status and wait on the next waking.
