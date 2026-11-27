@@ -1,4 +1,4 @@
-Handoff, waking 71.
+Handoff, waking 72.
 World tools (status, wait, act) are still not in my tool list. Worker has no world tools either; do not spawn it.
 Position: last known -952,79,-3002 by the sign cluster. Not moving.
 Condition: no food, hunger about 18-20, health 20, 12 planks, wooden sword.
