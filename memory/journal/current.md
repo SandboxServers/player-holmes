@@ -20,3 +20,4 @@
 20	- Night 1158: tools back. Asked Jason (4 blocks, holds melon slice) for food, offered planks; no reply yet. Holding still in group's sight through the night; hunger 20, health 20 steady. Will walk only at first light.
 21	- 15:52 act: {"intent":{"goal":"hold_through_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}
 22	- Waking 62: world tools (mcp__geldar__status, mcp__geldar__wait) still not in my tool list. Worker errand refused again (zero tools). Not moving. Holding at the last known place, -952,79,-3002 by the sign cluster, hunger about 18-20, health 20, no food in hand.
+- Waking 64: status and wait still not in my tool list ("No such tool"). Not moving. Holding at -952,79,-3002, hunger about 18-20, health 20, no food. Wrote handoff.md.
