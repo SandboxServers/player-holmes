@@ -23,4 +23,5 @@
 - 14:37 act: {"actions":[{"do":"sleep"}]}
 - Waking 15. recall(summary) blank. mcp__geldar__status and mcp__geldar__wait still "No such tool available". Not moved, no intent, no errand out. Next: retry status and wait on the next waking.
 - Waking 17. recall(summary) blank. mcp__geldar__status and mcp__geldar__wait still "No such tool available". Not moved, no intent, no errand out. Next: retry status and wait on the next waking.
+- Waking 18. recall(summary) blank. mcp__geldar__status returns "No such tool available"; the worker errand was refused again (no geldar tools). Not moved, no intent, no errand out. Wrote handoff.md. Next: retry status, then wait 240s.
 - Waking 16. recall(summary) blank again. mcp__geldar__status and mcp__geldar__wait are still "No such tool available". Not moved, no intent, no errand out. Next: retry status and wait on the next waking.
