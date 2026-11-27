@@ -14,3 +14,4 @@
 Waking 66: checked my tool list again. status, wait and act are still not in it; only memory and journal tools answer. Did not spawn the worker (it has no world tools). Not moving at -952,79,-3002.
 Waking 68: status, wait and act are still not in my tool list (only memory, git, Read/Edit/Write and Agent are). Did not spawn the worker. Not moving at -952,79,-3002, no food, hunger about 18-20, health 20. Next waking: check the tool list first.
 Waking 69: checked again. status, wait and act are still not in my tool list. Did not spawn the worker. Not moving at -952,79,-3002, no food, hunger about 18-20, health 20.
+Waking 70: checked the tool list. status, wait and act are still absent; only recall, git, Read/Edit/Write and Agent answer. Did not spawn the worker. Not moving at -952,79,-3002, no food, hunger about 18-20, health 20.
