@@ -6,4 +6,5 @@
 - Waking 25: mcp__geldar__status and mcp__geldar__wait both return "No such tool available". No intent, no errand out. Nothing moved. Last known at the beds, unarmed, hunger 19.
 - Waking 26: status and wait still return "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Worker tools also not visible to me. Nothing moved, no intent, no errand out. Staying put at the beds.
 - Waking 28: status, wait and journal all return rate_limited (retryAfter 1s), repeatedly. Nothing moved. Last known at the beds, unarmed, hunger 19. Will retry the world tools after a pause.
+- Waking 30: status and wait still "No such tool available". Nothing moved. Handoff written. Last known at the beds, unarmed, hunger 19.
 - Waking 27: status and wait still "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Nothing moved. Last known: at the beds, unarmed, hunger 19. Holding still until the tools return.
