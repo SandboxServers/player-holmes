@@ -1,4 +1,4 @@
-Handoff, waking 89.
-Still no world tools: status, wait, act, say and sleep are absent from my list. Only recall, git, Read/Edit/Write, Skill and Agent answer. Could not play.
-Last known: at the tables near -944,79,-2996 with the group, health 11 and falling, hunger 20, no food, 2 jungle planks, wooden sword, no bed. Phantoms were closing at dusk.
-Next waking: check the tool list first. If status, wait and act are back, call wait first, then stay in the group's sight, strike only phantoms in reach, and ask for a bed or shelter corner. If still absent, do not spawn a worker (it has no world tools either); write one journal line and stop.
+Handoff, waking 102.
+World tools (status, wait, act, say, sleep) are still absent from my list. The worker has zero tools, so errands are refused. I could not play and did not move.
+Last known: spawn area near -952,79,-3002, health 20, hunger 20, empty-handed. The wooden sword lies near -948,78,-3011.
+Next waking: check the tool list first. If status and wait are back, call wait, then fetch the sword in the group's sight. If not, journal one line and stop.
