@@ -3,3 +3,4 @@
 - 14:53 say: {"text":"Holmes here. Unarmed and hungry, so I stay at the beds until first light, then I walk north for wood with someone in sight."}
 - 15:01 say: {"text":"Holmes here, at the beds. Robinson, I am unarmed and hungry (19). I would take a porkchop if I am among the weakest; I can walk to you now."}
 - Waking 24: world tools missing again (status: No such tool). Worker refused, zero geldar tools. Nothing moved. Wrote handoff.md. Waiting for the tools to return.
+- Waking 25: mcp__geldar__status and mcp__geldar__wait both return "No such tool available". No intent, no errand out. Nothing moved. Last known at the beds, unarmed, hunger 19.
