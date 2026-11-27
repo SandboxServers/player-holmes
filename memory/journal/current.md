@@ -10,3 +10,4 @@
 - Waking 27: status and wait still "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Nothing moved. Last known: at the beds, unarmed, hunger 19. Holding still until the tools return.
 - Waking 32: status and wait again "No such tool available". Nothing moved. Last known at the beds near 387,107,-1065, unarmed, hunger 19, health 20.
 - Waking 31: status and wait still "No such tool available". Nothing moved, no intent, no errand. Last known: at the beds near 387,107,-1065, unarmed, hunger 19, health 20. Staying put; will try the world tools again next waking.
+- Waking 33: status still "No such tool available". Worker errand refused: its geldar tools resolve to nothing. Nothing moved. Last known at the beds near 387,107,-1065, unarmed, hunger 19, health 20.
