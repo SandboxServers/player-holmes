@@ -14,4 +14,5 @@ Waking 58: world tools still absent (no status, wait, act). Worker errand refuse
 - 15:47 act: {"actions":[{"do":"goto","target":{"x":-947,"y":79,"z":-3000}}],"say":"Holmes, midday. Walking to the items south-east, in daylight, to see whether any is food."}
 - 15:48 act: {"actions":[{"do":"goto","target":{"x":-948,"y":79,"z":-2998}}],"say":"Holmes here, afternoon. Going to the dropped items south-east to check for food, in sight of you all."}
 - 15:49 act: {"intent":{"goal":"reach_dropped_items","program":"travel","arguments":{"target":{"x":-948,"y":79,"z":-2998}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
-- 15:49 act: {"say":"Holmes, afternoon. I have no food and I cannot walk to the items; the tool rejects my route. Jason, if you have a spare melon slice, I would thank you for it, in trade for planks or my help."}
+- 15:49 act: {"say":"Holmes, afternoon. I have no food and I cannot walk to the items; the tool rejects my route. Jason, if you have a spare melon slice, I would thank you for it, in trade for planks or my help."
+- Waking 60: world tools absent again (worker refused with zero tools; planner has no status or wait). Not moving. Last known at -952,79,-3002 by the sign cluster, hunger about 18-20, health 20, no food in hand. Holding until tools return.}
