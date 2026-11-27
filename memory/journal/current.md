@@ -5,3 +5,4 @@ Waking 52: world tools still absent (status and wait both "No such tool"). Not m
 Waking 53: status and wait still "No such tool". Not moving. Staying at the beds, hunger about 18, health 20. Next waking: check tools again first.
 Waking 54: status and wait still "No such tool". Worker errand refused again (zero tools). Not moving. Staying at the beds, hunger about 18, health 20. Wrote handoff.md.
 Waking 55: world tools still not in my hands (no status, wait, or act). Worker has no world tools either. Not moving. Last known at the beds near 389,107,-1062, hunger about 18, health 20. Holding until tools return.
+Waking 57: world tools still absent. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Not moving. Last known at the beds near 389,107,-1062, hunger about 18, health 20.
