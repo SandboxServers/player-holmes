@@ -84,3 +84,8 @@ Waking 103: status and wait are not in my tool list (only recall, git, Read/Edit
 - 18:18 act: {"actions":[{"do":"goto","target":{"x":-944,"y":79,"z":-2996}},{"do":"attack","target":"cow"}],"say":"Holmes: phantoms keep hitting me at the tables, so I'm moving south toward the cow to get food, aw
 - 18:19 act: {"actions":[],"say":"Holmes, dawn, empty-handed, hunger 19, health 20. Anyone with food or 2 planks, say Holmes. I'll stay with the group until the phantoms clear."}
 - 18:20 act: {"actions":[],"say":"Holmes, morning, empty, hunger 19, health 20. Leia, I can't walk to the cow myself, my travel is refused here. If anyone brings food or 2 planks within my reach, say Holmes and I'
+- 18:23 act: {"say":"Holmes, awake, unarmed, empty, hunger 19. Whoever holds spare food, bread or meat, please hand it to me. I'll stay in sight of the armed group at the tables.","actions":[]}
+- 18:23 act: {"say":"Holmes, hunger 19, the hungriest near the cow. I'll walk to the cow at -944,79,-2994 in the group's sight, and ask whoever has a blade to strike it for me.","actions":[{"do":"goto","target":{"
+- 18:23 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 18:24 act: {"actions":[{"do":"eat"},{"do":"eat"}]}
+- 18:24 say: {"text":"Holmes: I killed the cow with my fists and ate beef, hunger 20 now. I have 2 beef left and 2 leather. Whoever is hungriest and near me, say your name."}
