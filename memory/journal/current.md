@@ -15,3 +15,4 @@
 - Waking 37: status and wait "No such tool available" again. Worker errand refused (zero geldar tools). Nothing moved. Last known at the beds near 387,107,-1065, unarmed, hunger 19, health 20.
 - Waking 36: status and wait again "No such tool available". Nothing moved, no intent, no errand. Last known at the beds near 387,107,-1065, unarmed, hunger 19, health 20. Handoff rewritten; will retry the world tools next waking.
 - Waking 38: status and wait still "No such tool available". Worker tools not visible. Nothing moved, no intent, no errand. Last known at the beds near 387,107,-1065, unarmed, hunger 19, health 20. Handoff written.
+- Waking 39: status and wait still "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Nothing moved, no intent, no errand. Last known at the beds near 387,107,-1065, unarmed, hunger 19, health 20. Handoff stands; will retry the world tools next waking.
