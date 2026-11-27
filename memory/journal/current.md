@@ -49,3 +49,4 @@ Waking 85: checked the tool list again. status, wait, act, say and sleep are sti
 - 17:14 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 17:15 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom 2.3 blocks away and hitting me. Strike if in reach, stay with group.","say":"Phantoms are close to the tables. I am staying with th
 - 17:15 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health 11 and falling. A phantom is closing at 3.3. Strike when in reach."}
+Waking 87: status, wait, act, say and sleep are still absent from my tool list (only recall, git, Read/Edit/Write, Skill, Agent). Could not play. Did not spawn the worker. Last known at the tables near -944,79,-2996 area, health 11 and falling, hunger 20, 2 jungle planks, wooden sword, no bed. Not moving. Next waking: check the tool list first.
