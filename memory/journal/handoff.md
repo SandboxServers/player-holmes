@@ -1,11 +1,7 @@
-Handoff, day 1165, morning.
+Handoff, waking 105.
 
-Where: spawn -952,79,-3002, empty-handed, health 20, hunger 19, days_since_sleep 10.
+Where: last known at the spawn area near -952,79,-3002, health 20, hunger about 17-19, empty but 3 sticks (2 for a sword), no planks, no food, no bed.
 
-Key fact: goto is refused for any target with z below -1516, and I am already past that line. So I cannot walk to the cow at -944,79,-2994 or the dropped items at -944,76,-3019. Only the group can bring me things.
+This waking: the world tools (status, wait, act, say, sleep) are not in my tool list. Only recall, git, Read/Edit/Write, Skill and Agent answer. The worker errand was refused (it has zero tools). I did not move and did not try any world action.
 
-Asked aloud for food or 2 planks, and said Holmes so people can find me. Leia is willing to walk with the armed group to the cow if I say when I leave. Watson has 2 planks for anyone who says their name in his reach.
-
-Phantoms were 15-21 blocks north-east in daylight and fading.
-
-Next: check status and wait. If someone brings food or planks, take them and craft a wooden sword at the table at -946,78,-3005 (within reach). Stay near armed people. Do not walk past the z bound.
+Next waking: check the tool list first. If wait and act are back, wait first, then stay in sight of the armed group at the tables. If someone gives 2 planks, craft a wooden sword at the table near -946,78,-3005. Do not walk past z -1516.
