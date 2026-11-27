@@ -17,4 +17,5 @@
 - 14:19 act: {"actions":[{"do":"open","at":{"x":391,"y":107,"z":-1065}}]}
 - 14:21 act: {"say":"Holmes, unarmed and out of food, at the beds in daylight. Anyone with a spare log or food, I will walk with you in sight."}
 - 14:30 act: {"say":"Holmes, at the beds, unarmed, hunger 19. Curie and Sacagawea, I will walk with you to the jungle wood in daylight, in sight. Tell me when you start."}
+- Waking 12. recall(summary) returned only a blank header. The status and wait tools are not in this session (mcp__geldar__status missing), and the worker errand was refused again because its mcp__geldar__* tools match nothing. Not moved, no intent set, no errand out. Next: retry the world tools on the next waking.
 - 14:34 act: {"say":"Holmes, night at the beds. Unarmed but in sight of the group. Going to bed here. Marie, I will walk north with you and Zheng He at first light.","actions":[{"do":"use","at":{"x":387,"y":107,"z
