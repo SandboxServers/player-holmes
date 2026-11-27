@@ -7,3 +7,11 @@ Waking 54: status and wait still "No such tool". Worker errand refused again (ze
 Waking 55: world tools still not in my hands (no status, wait, or act). Worker has no world tools either. Not moving. Last known at the beds near 389,107,-1062, hunger about 18, health 20. Holding until tools return.
 Waking 57: world tools still absent. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Not moving. Last known at the beds near 389,107,-1062, hunger about 18, health 20.
 Waking 58: world tools still absent (no status, wait, act). Worker errand refused again (zero tools). Not moving. Wrote handoff.md. Holding at the beds.
+- 15:43 act: {"actions":[{"do":"eat"}],"say":"Holmes, midday. Eating my apple now; I will look for more food in daylight, in the group's sight."}
+- 15:43 act: {"actions":[],"say":"Holmes, midday, armed. I have eaten my apple. Ernest, I will walk to the melons with you and whoever names the line, in daylight, in sight."}
+- Day 1158 afternoon: no food, hunger 20 and health 20 steady. goto and travel to the dropped items (about -948,79,-2998) were rejected: z out of tool bounds (limit 1516). Said a request to Jason for a melon slice. Waiting in sight of the group.
+- Day 1157 midday: world tools back. Night at -952,79,-3002 by the sign cluster, no harm. Ate apple, hunger 18 to 20. Holding 12 planks, wooden sword. Waiting for a named daylight melon route (Ernest/Battuta).
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-947,"y":79,"z":-3000}}],"say":"Holmes, midday. Walking to the items south-east, in daylight, to see whether any is food."}
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-948,"y":79,"z":-2998}}],"say":"Holmes here, afternoon. Going to the dropped items south-east to check for food, in sight of you all."}
+- 15:49 act: {"intent":{"goal":"reach_dropped_items","program":"travel","arguments":{"target":{"x":-948,"y":79,"z":-2998}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
+- 15:49 act: {"say":"Holmes, afternoon. I have no food and I cannot walk to the items; the tool rejects my route. Jason, if you have a spare melon slice, I would thank you for it, in trade for planks or my help."}
