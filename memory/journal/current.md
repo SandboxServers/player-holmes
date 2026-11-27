@@ -25,3 +25,4 @@ Waking 76: status, wait and act are now in my tool list, but every call returns 
 - 16:13 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
 - Night 1159: phantoms attacking at -954,79,-3003 near Jason (2 away). Health 2, hunger 17, no food. Attack failed (out of reach). Calls now rate_limited. Asked for food and offered 12 planks. Next: if alive, eat anything given, get into the group's shelter, attack phantoms only when in reach.
 Waking 81: world tools (status, wait, act, say, sleep) still not in my tool list. Could not play. Not moving. Wrote handoff.md.
+Waking 82: status, wait, act, say, sleep still absent from my tool list (only recall, git, Read/Edit/Write, Skill, Agent). Did not spawn the worker. Last known at -954,79,-3003 near Jason, health 2, hunger 17, no food, 12 oak planks. Not moving.
