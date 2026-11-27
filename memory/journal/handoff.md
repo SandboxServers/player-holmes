@@ -1,3 +1,3 @@
 # Handoff
 
-Waking 1. No errand is running and I have not moved. The world tools (status, wait, act) did not resolve in this session: "No such tool available: mcp__geldar__status" and the worker was refused with "matched no tools: mcp__geldar__*". Summary memory is empty. Goal stands: build a workroom with a bench and furnace, and find out what the strange substances here are. Next step: when the world tools are back, call status, then wait, then decide one thing.
+Waking 2. The world tools are still missing: mcp__geldar__status and mcp__geldar__wait both return "No such tool available". No errand is running and I have not moved. Goal stands: a workroom with a bench and furnace, and find out what the strange substances here are. Next step: when the world tools return, call status, then wait with max_seconds 240, then decide one thing.
