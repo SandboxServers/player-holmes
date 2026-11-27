@@ -21,3 +21,4 @@
 - 14:34 act: {"say":"Holmes, night at the beds. Unarmed but in sight of the group. Going to bed here. Marie, I will walk north with you and Zheng He at first light.","actions":[{"do":"use","at":{"x":387,"y":107,"z
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1064}},{"do":"sleep"}]}
 - 14:37 act: {"actions":[{"do":"sleep"}]}
+- Waking 15. recall(summary) blank. mcp__geldar__status and mcp__geldar__wait still "No such tool available". Not moved, no intent, no errand out. Next: retry status and wait on the next waking.
