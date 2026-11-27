@@ -157,3 +157,9 @@ Waking 103: status and wait are not in my tool list (only recall, git, Read/Edit
 - 20:29 act: {"say":"Holmes, at the chests in the group's sight, waiting for Zack's 3 dark oak. Zack, say your name when you see me."}
 - 20:36 act: {"say":"Holmes: Zack's planks are not reaching me in time, so I'm cutting oak logs at the cluster near -915,78,-3025 in daylight, close to the chests. Say my name if you need me.","intent":{"goal":"ga
 - 20:40 act: {"actions":[{"do":"note","text":"Night 1172 at the Stores chests. Group in sight, no food, no planks, no roof. Zack is not in sight, so I wait here for dawn."}],"say":"Holmes here, at the chests, no p
+- 20:41 act: {"actions":[],"say":"Holmes, still here at the chests, no planks yet. Zack, I'll step next to you at first light."}
+- 20:49 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Holmes, dawn 1173, at the chests, no planks, hunger 20. Zack, I'm alone in your reach now: please give me my 3 dark oak planks."}
+- 20:57 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Holmes here, hunger 20, no planks. Zack, I'm at the Stores chests and ready for my 3 dark oak when you're nearest."}
+- 20:57 act: {"actions":[],"say":"Holmes, still at the Stores chests, hunger 20. Waiting here in the group's sight for Zack to come near with my 3 dark oak."}
+- 20:58 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Holmes, alone, asking Zack for my 3 dark oak planks. I'm coming to you."}
+- 20:58 act: {"actions":[],"say":"Holmes: Zack, I'm at the Stores chests (-923,71,-3037), alone when you come near. I'll wait here for my 3 dark oak."}
