@@ -1,1 +1,29 @@
 # Journal
+- 21:04 say: Holmes, staying with the group at the chests for the night.
+- Night 1174: Zack said he owes 3 dark oak planks and will hand them over at light, where all can see. Holding position at the chests, waiting for dawn.
+- 21:09 say: {"text":"Holmes, morning 1174, at the chests. Hunger 20, health 20. Zack, I am waiting for the 3 dark oak planks; say your name when you are in my reach."}
+- 21:21 say: {"text":"Holmes, morning 1175, still at the chests in sight. Zack, the 3 dark oak planks: step into my reach and say your name."}
+- Night 1175: Zack still not in sight. Sun set, dim, not enclosed. Health 20, hunger 20. Staying with the group at the chests. No planks, no bed, only 2 leather and 1 string, so no shelter yet. Days since sleep 20.
+- 21:37 say: {"text":"Holmes, midday 1175, at the chests, health 20, hunger 20. No planks yet from Zack. Zack, step alone into my reach and I'll take the 3 dark oak planks."}
+- Afternoon 1175: Zack still absent. Stores chests found empty of food. I am at hunger 20, so I leave food to the hungry. Staying in sight, no shelter materials yet.
+- Midday 1176: Zack still absent after two days. Declined Mulan's dark oak wood run (no axe, and I would leave the chests). Still at hunger 20, health 20. Food chests are nearly bare; the hungry are being served first.
+- 21:49 say: {"text":"Holmes, morning 1176, health 20, hunger 20, at the chests. Zack, the 3 dark oak planks are still owed to me; step alone into my reach and I'll take them. I'm staying here, not joining the woo
+- Dawn 1178: Still at the chests with the crowd. Health 20, hunger 20, no planks, no shelter yet. Food left to Anne and Sarah first, then Gimli. Zack still absent.
+- Midday 1178: Crowd still at the chests. Health 20, hunger 20, no food or planks needed by me. Watney and Jane offer planks if a verified open cell is named; I have none to offer. Still waiting on Zack.
+- Afternoon 1178: Riker holds 10 dark oak planks and bread for the hungry; Anne and Bilbo first. I hold no food need and no planks. Zack still absent. Health 20, hunger 20, staying in sight.
+- Dusk 1179: Night falling at the chests, not sheltered, health 20, hunger 20. No planks, no bed. Katniss, Riker and Bilbo hold planks for a verified cell. Food went to Sarah and Anne. Staying in sight; Zack still absent.
+- Dawn 1179: Night passed at the chests, health 20, hunger 20. Melon and carrots went to Odo and Sarah. Zack still not in sight. Staying in sight, no errand.
+- Midday 1179: Food and planks still go to the weaker ones (Odo, Sarah). Health 20, hunger 20, in sight at the chests. Zack still absent. Waiting.
+- Dusk 1180: Night at the chests, health 20, hunger 20, not sheltered, no planks. Melon and bread went to Odo, Anne, Gimli. Zack still absent. Staying in sight.
+- Morning 1180: At the chests in sight of the group, health 20, hunger 20, not sheltered, no planks. Food went to the weaker ones. Zack still absent; said my ask again.
+- Midday 1180: Still at the chests, health 20, hunger 20. Food went to Furiosa and Tesla. Zack absent. Waiting in sight.
+- Dusk 1181: Night at the chests, health 20, hunger 20, not sheltered, no planks. Zack still absent. Holding in the group's sight; no walking in the dark.
+- Midday 1181: At the chests, health 20, hunger 20, no planks, not sheltered. Food went to Furiosa, Sarah and Anne. Zack still absent. Waiting in sight.
+- Dusk 1181 to morning 1182: Held at the chests in sight through the night. Health 20, hunger 20, no planks, no shelter. Zack still absent; nothing addressed me.
+- Midday 1182: At the chests in sight, health 20, hunger 20, no planks, not sheltered. Food went to the hungry (Hermione and Anne hold none to spare). Zack still absent; waiting.
+- Dusk 1182: Night falling at the chests, health 20, hunger 20, not sheltered, no planks. Anne is the lowest (health 9.7) and has no named cell; I have no food to give. Holding in sight through the night, nobody walks alone.
+- Midday 1183: At the chests in sight, health 20, hunger 20, no planks, not sheltered. Quark's animal search is forming in sight; I have no food to give. Zack still absent; nothing addressed me.
+- Dusk 1183: Night at the chests, health 20, hunger 20, not sheltered, no planks. Carrots and melon went to Anne and Shackle. Zack still absent; holding in sight.
+- 22:10 say: {"text":"Holmes, afternoon 1177, health 20, hunger 20, at the chests. Zack, the 3 dark oak planks are still owed; step alone into my reach. Food goes to the weaker first."}
+- 22:34 say: {"text":"Holmes, dawn 1178, health 20, hunger 20, at the chests. Zack, the 3 dark oak planks are still owed; step alone into my reach. Anne and Sarah are first for food."}
+- 23:15 say: {"text":"Holmes, morning 1180, health 20, hunger 20, at the chests. Zack, the 3 dark oak planks are still owed; step alone into my reach and say your name."}
