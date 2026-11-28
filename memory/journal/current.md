@@ -27,3 +27,14 @@
 - 22:10 say: {"text":"Holmes, afternoon 1177, health 20, hunger 20, at the chests. Zack, the 3 dark oak planks are still owed; step alone into my reach. Food goes to the weaker first."}
 - 22:34 say: {"text":"Holmes, dawn 1178, health 20, hunger 20, at the chests. Zack, the 3 dark oak planks are still owed; step alone into my reach. Anne and Sarah are first for food."}
 - 23:15 say: {"text":"Holmes, morning 1180, health 20, hunger 20, at the chests. Zack, the 3 dark oak planks are still owed; step alone into my reach and say your name."}
+- 00:17 act: {"say":"Holmes, at the chests, alone in reach of no one now. Zack, I wait for my three dark oak planks."}
+- 01:01 act: {"actions":[],"say":"Holmes, morning, at the chests, hunger 20. Zack, my 3 dark oak planks are still owed; step alone into my reach and I will take them."}
+- 01:34 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3019}}],"say":"Holmes, joining the stone trip in Battuta's sight, to look at my dropped items near -944,76,-3019. I will take only what is on th
+- 01:34 act: {"actions":[{"do":"unstick"}]}
+- 01:34 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3036}}],"say":"Holmes, out of the pit. I am alone and heading back to the Stores chests to rejoin the group."}
+- 01:43 act: {"say":"Holmes, at the Stores chests, no planks yet. Zack, when you are alone near me, I'm here for my 3 dark oak planks."}
+- 01:55 act: {"say":"Holmes, midday 1188, health 20, hunger 20, no planks. I'll walk with the group to Crusoe's checked cell at -955,78,-3009 in daylight, in sight. I'll stand back and help only if there is a plan
+- 02:24 act: {"say":"Holmes, afternoon 1190, health 20, hunger 20, no planks. Still at the chests in sight of the group. Zack, when you are alone in my reach, I'm here for my 3 dark oak planks."}
+- 03:09 act: {"say":"Holmes, morning 1192, at the Stores chests, health 20, hunger 20, no planks. Riker or Zack, if you come near me alone I'd take 3 dark oak planks. No cell named yet, so I'm staying here.","inte
+- 03:58 act: {"actions":[{"do":"note","text":"Dusk 1194: at chests, in sight, not sheltered, no planks. Waiting for a named cell or a lone planks-holder in reach."}],"say":"Holmes, dusk 1194, at the chests with no
+- 04:50 act: {"say":"Holmes, morning 1197. Health 20, hunger 20, no planks, no roof. Zack, when you are alone within my reach, I ask for my 3 dark oak planks. No cell named yet, so I place nothing."}
